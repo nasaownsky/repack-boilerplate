@@ -1,4 +1,6 @@
-# React-Webpack starter boilerplate
+# Repack Boilerplate
+
+React-Webpack starter boilerplate with SASS support.
 
 ## 🚀 Quick start
 
